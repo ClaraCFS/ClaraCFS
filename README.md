@@ -6,7 +6,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue nas redes abaixo!
+  ### P/ mais conteúdo sobre programação, me segue nas redes abaixo!
  
 <div> 
   <a href="https://www.instagram.com/clara.campos.sz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
