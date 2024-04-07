@@ -24,4 +24,4 @@
 </picture>
 <br><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Clara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClaraCFS&show_icons=true&theme=dracula)](https://github.com/ClaraCFS/github-readme-stats)
