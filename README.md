@@ -24,6 +24,6 @@
 </picture>
 <br><br>
 <div>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=ClaraCFS&show_icons=true&theme=dracula">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraCFS&layout=compact&theme=dracula">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ClaraCFS&show_icons=true&theme=dracula">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraCFS&layout=compact&theme=dracula">
 </div>
