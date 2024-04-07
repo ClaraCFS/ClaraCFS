@@ -13,8 +13,9 @@
   <a href="https://www.linkedin.com/in/clara-campos-figuer%C3%AAdo-soares-420984255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br> <br>
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ClaraCFS&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ClaraCFS&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/ClaraCFS/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ClaraCFS)](https://github.com/ClaraCFS)
+
+
 <br>
 
 <br>
