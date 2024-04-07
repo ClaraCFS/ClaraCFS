@@ -23,5 +23,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ClaraCFS/ClaraCFS/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
-
-[![Clara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClaraCFS&show_icons=true&theme=dracula)](https://github.com/ClaraCFS/github-readme-stats)
+<div>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=ClaraCFS&show_icons=true&theme=dracula">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraCFS&layout=compact&theme=dracula">
+</div>
